@@ -1,1 +1,2 @@
-# Machine_learning_12_algorithms_of_Classification
+
+# 12 algorithms of classification in machine learning with explanation
