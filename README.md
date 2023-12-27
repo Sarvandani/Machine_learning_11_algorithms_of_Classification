@@ -1,8 +1,8 @@
 [![PyPI license](https://img.shields.io/pypi/l/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/)
  <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" /> 
- #This Python script aims to analyze customer satisfaction data through different classification methods.
 
 # 12 algorithms of classification in machine learning
+#This Python script aims to analyze customer satisfaction data through different classification methods.
 
 
 ```python
